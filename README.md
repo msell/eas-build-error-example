@@ -1,4 +1,4 @@
-# EAS Build Issue when adding `@segment-analytics-react-native`
+**EAS Build Issue when adding `@segment-analytics-react-native`**
 
 **Minimal, reproducable example**
 
@@ -17,7 +17,7 @@ Then I wanted to confirm that EAS build was working properly:
 
 No errors occured and the expected build artifact was built.
 
-Now I install **@segment/analytics-react-native**
+Next I installed **@segment/analytics-react-native**
 
 `npx expo install @segment/analytics-react-native`
 
